@@ -1,4 +1,5 @@
 name: Publish LevelProof public website
+# Retry after GitHub Pages source set to GitHub Actions
 
 on:
   push:
